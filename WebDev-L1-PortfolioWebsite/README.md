@@ -8,9 +8,10 @@ A responsive Portfolio page built using HTML and CSS as part of the Oasis Infoby
 - Styled with custom CSS for visual hierarchy and alignment
 
 **Content**
--My profile, name role
--showcasing my academics and tech skill
--include my contact details
+- My profile, name role
+- showcasing my academics and tech skill
+- include my contact details
+
 ** Tech Stack**
 - HTML5
 - CSS3
