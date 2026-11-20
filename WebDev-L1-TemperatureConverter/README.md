@@ -12,6 +12,6 @@ Content
 Converts temperature in between celcius ,farenhite and kelvin.
 handle edge cases also
 **Tech Stack**
--HTML5
--CSS3
--Javascript
+HTML5
+CSS3
+Javascript
